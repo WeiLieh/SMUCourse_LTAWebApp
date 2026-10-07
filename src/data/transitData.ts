@@ -1239,6 +1239,7 @@ export const BUS_SERVICES: BusServiceData[] = [
 ];
 
 export const ALL_BUS_STOPS: BusStopOption[] = [
+  { code: '04121', name: 'Stamford Ct', road: 'Hill St', corridor: 'Hill Street Corridor' },
   { code: '04229', name: 'High St Ctr', road: 'Hill St', corridor: 'Hill Street Corridor' },
   { code: '04239', name: 'Clarke Quay Stn', road: 'Eu Tong Sen St', corridor: 'Eu Tong Sen Street Corridor' },
   { code: '05013', name: 'Chinatown Stn', road: 'New Bridge Rd', corridor: 'Chinatown Heritage Corridor' },
