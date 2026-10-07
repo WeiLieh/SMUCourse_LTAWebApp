@@ -1,0 +1,6 @@
+{
+  "name": "SBS Transit NextBus Arrival Timings",
+  "description": "Real-time commuter bus arrival schedules, wheelchair accessibility indicators, and live occupancy tracking across Singapore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
